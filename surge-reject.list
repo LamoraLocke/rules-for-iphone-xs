@@ -1,5 +1,15 @@
 # Ads in Video apps
 
+DOMAIN-SUFFIX,adcolony.com
+DOMAIN-SUFFIX,ads.mopub.com
+DOMAIN-SUFFIX,ws.batch.com
+DOMAIN-SUFFIX,ads.api.vungle.com
+DOMAIN-SUFFIX,inner-active.mobi
+DOMAIN-SUFFIX,data.flurry.com
+DOMAIN-SUFFIX,tapjoyads.com
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,ad.smaato.net
+
 # > iqiyi & pps
 DOMAIN-SUFFIX,a.ckm.iqiyi.com
 DOMAIN-SUFFIX,ad.m.iqiyi.com
